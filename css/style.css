@@ -1,0 +1,1150 @@
+.nijnee_menu {
+		width: 84%;
+		height: 60px;
+		background: red;
+		margin: 0 auto;
+		padding-left: 10px;
+		padding-right: 10px;
+}
+.levaya_nijnego {
+		width: 25.5%;
+		float: left;
+		height: 60px;
+}
+
+.pravaya_nijnego {
+		width: 74.5%;
+		float: right;
+		height: 60px;
+}
+.kategoria {
+		color: #ffffff;
+		font-weight: bold;
+		text-align: left;
+		text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.1);
+		padding: 10px 17px 10px 13px;
+		background-color: #d9534f;
+		border-color: #d43f3a;
+		float: left;
+		margin-left: 0;
+		position: relative;
+		border-radius: 5px 5px 1px 1px;
+}
+
+.kategorii {
+		position: relative;
+		display: inline-block;
+		box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+.slovo_kategotia {
+		font-size: 16px;
+		padding-right: 132px;
+}
+.poiskovik {
+		list-style: none;
+		float: right;
+		display: flex;
+		margin-top: 0;
+}
+input[type="text"] {
+		width: 594px;
+		height: 36px;
+		position: relative;
+		right: 75px;
+		border: 1px solid #cccccc;
+		border-radius: 4px;
+		font-size: 15px;
+		color: #999999;
+		padding-left: 13px;
+}
+.pokazat_resultat {
+		width: 57px;
+		height: 40px;
+		position: absolute;
+		right: 354px;
+		border: 1px solid #cccccc;
+		border-radius: 0px 4px 4px 0px;
+		background: #eeeeee;
+}
+/*Верхнее Меню
+===================================================*/
+/*Day 1*/
+header {
+		width: 100%;
+		position: relative;
+}
+
+.verhnee_menu {
+		width: 100%;
+		height: 40px;
+		background: #fff;
+		border-bottom: 1px solid #ddd;
+		box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+}
+body {
+		margin: 0;
+		background: #fff;
+	}
+.levaya {
+		float: left;
+		width: 30%;
+		height: 30px;
+		padding-left: 110px;
+		padding-top: 6px;
+}
+
+.pravaya {
+		float: right;
+		width: 30%;
+		height: 30px;
+		padding-right: 110px;
+		padding-top: 6px;
+}
+button.butt {
+		background: #f5f5f5;
+		line-height: 25px;
+		padding: 0 8px;
+		position: relative;
+		display: inline-block;
+		border-radius: 6px;
+		border: 1px solid #dddddd;
+		font-family: sans-serif;
+}
+button.butt_1 {
+		background: #f5f5f5;
+		line-height: 25px;
+		padding: 0 8px;
+		position: relative;
+		display: inline-block;
+		border-radius: 6px;
+		border: 1px solid #dddddd;
+		font-family: sans-serif;
+		float: right;
+}
+.verhnee_nuli {
+		border-radius: 4px;
+		background: #ddd;
+		color: #333333;
+		position: relative;
+		display: inline-block;
+		padding: 2px 6px;
+		font-size: 12px;
+		line-height: 1;
+}
+i.fas.fa-heart {
+		color: #777777;
+}
+
+i.fas.fa-balance-scale {
+		color: #777777;
+}
+/*Day2*/
+.spisok {
+		list-style: none;
+		background: #fff;
+		padding: 0;
+		position: absolute;
+		top: 20px;
+		right: 110px;
+		width: 146px;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		border: 1px solid #dddddd;
+		border-radius: 4px;
+		box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+		display: block;
+		display: none;
+}
+.spisok li {
+		clear: both;
+}
+.spisok li:hover {
+		background: #ededed;
+}
+.spisok a {
+		position: relative;
+		text-decoration: none;
+		color: #777777;
+}
+.fa.fa-angle-down {
+		color: #8f7b7b;
+}
+.levaya button:hover {
+		background: white;
+}
+.pravaya button:hover {
+		background: white;
+}
+.verhnee_menu_tovar {
+		text-decoration: none;
+		color: #000000;
+}
+.verhnee_menu a:hover i {
+		color: red;
+}
+.verhnee_menu .pravaya:hover .butt_1 {
+		cursor: pointer;
+		box-shadow: inset 0 4px 5px rgba(0, 0, 0, 0.1);
+}
+.spisok_vybor {
+		padding: 0 13px;
+		line-height: 1.7;
+}
+/*Среднее Меню
+=================================================*/
+/*Day3*/
+.srednee_menu {
+		width: 84%;
+		height: 100px;
+		background: #fff;
+		margin: 0 auto;
+		display: table;
+		padding-left:10px;
+		padding-right: 10px;
+		margin-top: 5px;
+}
+.levaya_srednego {
+	width: 50%;
+	float: left;
+}
+
+.pravaya_srednego {
+		width: 50%;
+		float: right;
+}
+.srednee_menu li {
+		list-style: none;
+		font-family: sans-serif;
+}
+.levaya_srednego li {
+		float: left;
+}
+.pravaya_srednego li {
+		float: right;
+}
+.levaya_srednego ul:first-child {
+		margin: 0;
+		padding: 0;
+}
+
+.nomera {
+		display: grid;
+		padding-left: 33px;
+		padding-top: 23px;
+}
+.nomer_1 {
+		font-size: larger;
+		font-family: sans-serif;
+}
+
+.nomer_2 {
+		font-family: sans-serif;
+		font-weight: 800;
+		color: #aaaab2;
+}
+.uslugi {
+		padding: 0 15px;
+		padding-top: 20px;
+}
+.uslugi a {
+		text-decoration: none;
+		color: #333333;
+		border-bottom: 1px solid #ddd;
+		padding-bottom: 1px;
+}
+/*Day4*/
+.kontakty {
+	padding: 0;
+	position: absolute;
+	display: block;
+	border: 1px solid #c5c5c5;
+	border-radius: 4px;
+	background: #fff;
+	width: 360px;
+	box-shadow: 0 6px 12px rgba(0,0,0,.175);
+	font-size: 14px;
+	height: 122px;
+	margin-left: -10px;
+	margin-top: 5px;
+	display: none;
+}
+.kontakty a {
+		text-decoration: none;
+		color: #333;
+		padding-left: 24px;
+}
+.nomera_srednego {
+	border-bottom: 1px solid #e5e5e5;
+	width: 360px;
+	padding-top: 10px;
+	padding-bottom: 9px;
+}
+.kontakty li:last-child {
+		border-bottom: none;
+}
+.raspisanie {
+		padding-left: 24px;
+		color: #333;
+}
+.nomera_srednego_1 {
+	border-bottom: 1px solid #e5e5e5;
+	width: 360px;
+	padding-top: 10px;
+	padding-bottom: 9px;
+}
+.kontakty .nomera_srednego:hover a {
+		background: #f5f5f5;
+}
+.sup {
+		padding-right: 28px;
+}
+.site {
+		padding-right: 213px;
+}
+.srednee_menu .levaya_srednego:hover .open {
+		cursor: pointer;
+}
+/*Нижнее меню
+=====================================================*/
+/*Day5*/
+.nijnee_menu {
+		width: 84%;
+		height: 60px;
+		background: #fff;
+		margin: 0 auto;
+		padding-left: 10px;
+		padding-right: 10px;
+}
+.levaya_nijnego {
+		width: 25.5%;
+		float: left;
+		display: inline-table;
+		position: relative;
+}
+
+.pravaya_nijnego {
+		width: 74.5%;
+		float: right;
+		position: relative;
+}
+.kategoria {
+	    width: 100%;
+		color: #ffffff;
+		font-weight: bold;
+		text-align: left;
+		text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.1);
+		padding: 10px 17px 10px 13px;
+		background-color: #d9534f;
+		float: left;
+		margin-left: 0;
+		position: relative;
+		border-radius: 5px 5px 1px 1px;
+		border: 1px solid #d43f3a;
+}
+
+.kategorii {
+		position: relative;
+		display: inline-block;
+		box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+		border-radius: 0px 0px 5px 5px;
+    	width: 90%
+}
+.slovo_kategotia {
+		font-size: 16px;
+		padding-right: 146.32px;
+}
+.poiskovik {
+		list-style: none;
+		float: right;
+		display: flex;
+		margin-top: 0;
+		width: 100%;
+		position: relative;
+}
+input[type="text"] {
+		width: 635px;
+		height: 36px;
+		position: relative;
+		border: 1px solid #cccccc;
+		border-radius: 4px;
+		font-size: 15px;
+		color: #999999;
+		padding-left: 13px;
+		right: 0;
+}
+.pokazat_resultat {
+	width: 57px;
+    height: 40px;
+    position: absolute;
+    right: 0px;
+    border: 1px solid #cccccc;
+    border-radius: 0px 4px 4px 0px;
+    background: #eeeeee;
+}
+.korzina {
+    position: relative;
+    left: 26px;
+}
+.poisk {
+		position: relative;
+}
+.urna {
+    height: 40px;
+    border: 1px solid #2e6da4;
+    border-radius: 4px;
+    background: #2e6da4;
+    color: white;
+    position: relative;
+    display: inline-block;
+    width: 170px;
+}
+#kurva {
+    float: right;
+    position: absolute;
+    right: 13px;
+    top: 13px;
+}
+.pokupka_vsy {
+    position: relative;
+    display: inline-grid;
+}
+
+.producty {
+    padding-left: 45px;
+}
+
+.cena {padding-left: 35px;}
+
+#jordan {
+    font-size: 21px;
+    position: absolute;
+    left: 11px;
+    top: 7px;
+}
+/*Day 6*/
+.menu_vybora {
+    list-style: none;
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.kategoria_vybora {
+	padding: 10px;
+    text-transform: uppercase;
+    color: #5a5a5a;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.kategorii > ul >li {
+    border-bottom: 1px solid #eeeeee;
+}
+#sasha {
+    position: absolute;
+    right: 14px;
+    top: 13px;
+}
+.menu_vybora> li:nth-child(13) {
+    border-bottom: none;
+}
+#son_sasha {
+    float: right;
+    font-size: 9px;
+    color: #b1b1b1;
+    padding-top: 5px;
+    padding-right: 8px;
+}
+/*Day 7*/
+.jq_open {
+    z-index: 9;
+}
+.vyborka_tovara {
+	background: #fff;position: absolute;
+	left: 100%;
+	top: -5px;
+	min-height: 100%;
+	border: 1px solid #ddd;
+	border-radius: 6px;
+	padding: 5px 0 25px;
+	margin-top: -1px;
+	margin-left: -3px;
+	box-shadow: 2px 6px 12px rgba(0, 0, 0, 0.4);
+	box-sizing: content-box;
+	overflow: hidden;
+	width: 100%;
+	z-index: 10;
+	text-transform: none;
+	}
+	.smotret_vse_tovary {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    line-height: 24px;
+    font-size: 12px;
+    border-top: 1px solid #eee;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+.vyborka_tovara a {
+    text-decoration: none;
+    color: #333333;
+}
+.sam_tovar {
+    font-weight: bold;
+    padding: 8px 20px;
+    font-size: 13px;
+}
+
+.tovar {
+    list-style: none;
+    padding: 0;
+}
+
+
+.tovar > li {
+    border-bottom: 1px solid #eeeeee;
+    line-height: 26px;
+}
+
+.tovar li:last-child {
+    border-bottom: none;
+}
+/*Day 8*/
+.dnone{
+	display: none;
+}
+.dblock{
+	display: block;
+}
+.dblock a:hover   {
+    color: red;
+}
+#son_sasha, .kategoria_vybora:hover  { 
+    padding-right:6px;
+}
+.kategoria_vybora:hover #son_sasha {
+    color: red;
+}
+
+.kategoria_vybora:hover {
+    color: red;
+    background: whitesmoke;
+    cursor: pointer;
+}
+/*Day 9*/
+.korzina_vybor {
+    position: absolute;
+    display: block;
+    left: -686px;
+    top: 45px;
+    width: 503%;
+    border: 1px solid #eeeeee;
+    font-family: sans-serif;
+    display: none;
+    background: white;
+    box-shadow: 0px 0px 20px 20px rgb(0 0 0 / 35%);
+}
+.sled_deystvie {
+    margin-bottom: 30px;
+}
+.header_korziny {
+    position: relative;
+    display: block;
+    border-bottom: 1px solid #eeeeee;
+    height: 65px;
+}
+#vyhod {
+    position: absolute;
+    right: 10px;
+    top: 8px;
+}
+.dannye_tovarov {
+    position: relative;
+    border-bottom: 1px solid #eeeeee;
+    height: 60px;
+    padding: 7px 10px;
+}
+.kartinka_tovara {
+    display: inline-block;
+    border: 1px solid #dddddd;
+    padding: 2px 3px;
+    border-radius: 6px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    height: 46px;
+    line-height: 68px;
+}
+.korzina_vybor a {
+    text-decoration: none;
+    color: #333333;
+    cursor: pointer;
+}
+.opisanie_tovara {
+    display: inline-block;
+    position: absolute;
+    top: 7px;
+    left: 150px;
+}
+input[name="count"] {
+    width: 30%;
+    height: 20px;
+    text-align: center;
+    border: 1px solid #cccccc;
+}
+
+.js_minus {
+    height: 24px;
+    border: 1px solid #cccccc;
+    border-radius: 5px 0px 0px 5px;
+    position: absolute;
+    left: 40px;
+    width: 12%;
+    background: white;
+}
+
+.js_plus {
+    height: 24px;
+    border: 1px solid #cccccc;
+    border-radius: 0px 5px 5px 0px;
+    position: absolute;
+    right: 38px;
+    background: white;
+}
+.cena_za_odin {
+    color: red;
+}
+
+.synbol {
+    color: red;
+}
+.count_product {
+	text-align: center;
+	padding-top: 10px;
+	position: absolute;
+	right: 180px;
+	top: 7px;
+}
+.udalit_zakaz .cart_remove {
+    color: #aaaaaa;
+}
+.korzina_pokupok {
+    font-size: 30px;
+    color: red;
+    padding: 15px 15px;
+    position: absolute;
+}
+
+#vyhod:hover {
+    background: #c7c7c7;
+    border: 1px solid #c7c7c7;
+    border-radius: 30px;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    right: 0;
+    top: 0;
+    line-height: 30px;
+    color: #898989;
+}
+.udalit_zakaz {
+    position: absolute;
+    right: 15px;
+    top: 19px;
+}
+
+.originalnaya_cena {
+    position: absolute;
+    right: 100px;
+    top: 20px;
+}
+.js_minus:hover {
+    background: #cccccc;
+}
+
+.js_plus:hover {
+    background: #cccccc;
+}
+.itog_tovarov {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.kol_tovarov {
+    color: red;
+}
+
+.summa_v_korzine {
+    color: red;
+}
+.knopochki {
+    padding: 0 15px;
+}
+
+.sled_deystvie {
+    text-align: center;
+}
+.opisanie_tovara:hover p {
+    color: red;
+}
+.continue {
+    font-size: 15px;
+    padding: 8px 35px;
+    background: white;
+    border: 1px solid #cccccc;
+    border-radius: 6px;
+}
+
+.continue:hover {
+    background: #efefef;
+}
+.checkout {
+    font-size: 15px;
+    padding: 8px 35px;
+    background: #d9534f;
+    border: 1px solid #d9534f;
+    border-radius: 6px;
+    color: white;
+}
+
+.checkout:hover {
+    background: #bf4642;
+}
+/*Слайдеры
+=====================================================*/
+/*Day 10*/
+.container {
+    width: 848px;
+    margin-left: 398px;
+}
+.verhnii_slider .slick-dots {
+    position: absolute;
+    bottom: 0;
+    text-align: right;
+}
+
+.verhnii_slider .slider.slideshow.slick-initialized.slick-slider.slick-dotted {
+    margin-bottom: 0px;
+}
+.slider_1{
+	border: 1px solid #ddd;
+    overflow: hidden;
+    border-radius: 6px;
+}
+.slider_2{
+	border: 1px solid #ddd;
+    overflow: hidden;
+    border-radius: 6px;
+    margin-top: 20px;
+    height: 402px;
+    font-family: sans-serif;
+    color: #5a5a5a;
+}
+.slider_3{
+	border: 1px solid #ddd;
+    overflow: hidden;
+    border-radius: 6px;
+    margin-top: 20px!important;
+    height: 402px;
+    font-family: sans-serif;
+    color: #5a5a5a;
+    width: 84.5%;
+    margin: 0 auto;
+}
+.verhnii_slider li {
+    margin: 0px!important;
+}
+.verhnii_slider li> button:before {
+    font-size: 14px!important;
+    color: #ff0000!important;
+}
+/*Day 10*/
+.header_slidera {
+    border-bottom: 1px solid #dddddd;
+    height: 30px;
+    background: #f5f5f5;
+    line-height: 30px;
+    padding-left: 15px;
+}
+.product_item.slick-slide {
+    position: relative;
+    padding: 15px 0;
+    text-align: center;
+    height: 342px;
+}
+
+.img_slidera {
+    position: relative;
+    padding: 15px 15px;
+    text-align: center;
+    display: table;
+    width: 55%;
+    margin: 0 auto;
+}
+
+.caption {
+    padding: 0 15px 10px;
+}
+
+.buttons {
+	padding: 0 15px 12px 15px;
+    position: absolute;
+    width: 148px;
+    left: 50px
+}
+.price {
+    font-size: 20px;
+}
+.buttons button {
+	border: 1px solid #dddddd;
+    color: #777777;
+    background-color: #eeeeee;
+    padding: 5px 10px;
+    height: 35px;
+}
+.name {
+	text-decoration: none;
+	font-size: 14px;
+	color: #333333;
+}
+.buttons i {
+    font-size: 15px;
+}
+.kupit {
+    margin-right: -6px;
+    border-radius: 6px 0px 0px 6px;
+}
+.name a:hover {
+    color: red;
+}
+
+.vybory {
+    margin-left: -6px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+.name {
+    padding-bottom: 40px;
+}
+.name a:hover {
+    color: red;
+}
+
+.product_item.slick-slide:hover .buttons button {
+    background:#e4003a;
+    border-color: #a20909;
+}
+.product_item:hover .buttons i{
+     color:white; 
+}
+.product_item:hover .kupit{
+    color:white
+}
+.buttons>button:hover {cursor: pointer;}
+
+.srednii_slider .slick-prev.slick-arrow:before {
+    position: absolute;
+    bottom: 202px;
+    left: 800px;
+    color: #969696;
+}
+.srednii_slider .slick-next {
+    right: 18px;
+    position: absolute;
+    top: -16px;
+}
+button.slick-next.slick-arrow:before {
+    color: #969696;
+}
+.slider_3 .srednii_slider .slick-prev.slick-arrow:before {
+    position: absolute;
+    bottom: 202px;
+    left: 1090px;
+    color: #969696;
+}
+.slider_4 {
+    border: 1px solid #ddd;
+    overflow: hidden;
+    border-radius: 6px;
+    margin-top: 20px!important;
+    height: 100px;
+    width: 84.5%;
+    margin: 0 auto;
+    box-shadow: 0 3px 10px rgba(0,0,0,.1);
+    background: #fff;
+}
+.slider_4 .nijnii_slider img {
+    margin: 0 auto;
+}
+.img_kompanii {
+    padding: 10px 0;
+    width: 190px;
+    border-right: 1px solid #f3f3f3;
+}
+/*Day 11*/
+.footer_site {
+	border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-top: 40px!important;
+    height: 370px;
+    padding: 30px 30px 20px 30px;
+    font-family: sans-serif;
+    color: #5a5a5a;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 3px 10px rgba(0,0,0,.1);
+    background: #fff;
+    margin-bottom: 20px!important;
+}
+.verhnii_footer {
+    position: relative;
+    display: block;
+}
+
+.informacia {
+    display: inline-block;
+    width: 30%;
+    float: left;
+}
+
+.dopolnitelno {
+    display: inline-block;
+    width: 30%;
+    float: left;
+}
+
+.instagram {
+    display: inline-block;
+    width: 40%;
+    float: right;
+    padding-bottom: 20px;
+}
+.informacia a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 14px;
+}
+.dopolnitelno a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 14px;
+}
+
+.verhnii_footer li {
+    list-style: none;
+}
+.avengers>li {
+    padding-bottom: 10px;
+}
+
+.mstiteli {
+    padding-top: 10px;
+}
+.verhnii_footer i {
+    color: #d9534f;
+    font-size: 13px;
+    padding-right: 5px;
+}
+.avengers {
+    padding: 0;
+}
+.wakanda_forever {
+    font-weight: bold;
+    border-bottom: 1px solid #dddddd;
+}
+.dopolnitelno  a:hover {
+    color: red;
+}
+.informacia  a:hover {
+    color: red;
+}
+.wrapper {
+    margin: 0px auto;
+    width: 300px;
+}
+
+.widget {
+    border: 1px solid #c3c3c3;
+    background: #f9f9f9;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.title {
+    display: block;
+    background: #ff6600;
+    color: #FFFFFF;
+    overflow: hidden;
+    padding: 5px;
+    line-height: 18px;
+}
+
+.header {
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    overflow: hidden;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+.data {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.title a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.title .icon {
+    float: left;
+    margin-right: 5px;
+    width: 16px;
+    /* height: 16px; */
+}
+
+.header table {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.header table tr {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header .avatar {
+    padding: 0px;
+    margin: 0px;
+    width: 33%;
+    padding: 10px;
+    border-right: 1px solid #c3c3c3;
+}
+.header .avatar img {
+    max-width: 100%;
+}
+.header .submit{
+	text-align: center;
+}
+.header .submit a{
+	background: #FF0000;
+    display: inline-block;
+    margin: 8px;
+    padding: 4px 15%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.header table tr td {
+    padding: 0px;
+    margin: 0px;
+    vertical-align: top;
+}
+
+.header .posts {
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: stretch;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    font-weight: bold;
+}
+
+.header .posts_1 {
+    margin: 0px;
+    padding: 0px;
+    flex: 1 1 33.3%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: space-between;
+    border-right: 1px solid #c3c3c3;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+.header .posts_2 {
+    margin: 0px;
+    padding: 0px;
+    flex: 1 1 33.3%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: space-between;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+.header .posts_3 {
+    margin: 0px;
+    padding: 0px;
+    flex: 1 1 33.3%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    justify-content: space-between;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+.header .posts span {
+    font-size: 8px;
+    font-weight: normal;
+    display: block;
+}
+.data a {
+    margin: 0px;
+    padding: 0px;
+    flex: 0 0 25%;
+    display: flex;
+    align-items: center;
+}
+
+.data a img {
+    padding: 1px;
+    max-width: 100%;
+}
+.nijnii_footer {
+    padding: 20px 0 10px;
+    display: inline-block;
+    width: 100%;
+    border-top: 1px solid #eeeeee;
+    font-size: 12px;
+}
+.product_item.slick-slide a {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+
+}
+a {
+    outline: none!important; 
+}
+button {
+outline: none!important; 
+}
+input {
+    outline: none!important; 
+}
+.product_item.slick-slide img {
+    width: 185px;
+    height: 165px;
+}
+.kartinka_tovara img {
+    width: 47px;
+}
+.cena_za_odin_origin {
+    display: none;
+}

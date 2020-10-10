@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"produ",
+				"product"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"li",
+				"lightgallery"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"jq",
+				"jq_open"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"product",
+				"product_item"
+			],
+			[
+				"js",
+				"js_minus"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"tex",
+				"text-light"
+			],
+			[
+				"bt",
+				"btn-outline-light"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"pra",
+				"pravaya_srednego"
+			],
+			[
+				"nomer",
+				"nomer_2"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"spi",
+				"spisok_vybor"
+			],
+			[
+				"ver",
+				"verhnee_menu"
+			],
+			[
+				"f",
+				"float\tproperty"
+			],
+			[
+				"ve",
+				"verhnee_menu"
+			],
+			[
+				"knop",
+				"knopka_2"
+			],
+			[
+				"k",
+				"knopka_2"
+			],
+			[
+				"kn",
+				"knopki"
+			],
+			[
+				"n",
+				"nijnee_tablica"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"border-le",
+				"border-left-color\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"sm",
+				"xx-small\tfont-size"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"co",
+				"col-sm-6"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/User/Desktop/MySite(1)/index.html",
+		"/C/Users/User/Desktop/MySite(1)/js/my.js",
+		"/C/Users/User/Desktop/MySite(1)/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson32/js/my.js",
+		"/C/Users/User/Desktop/MySite(3)/js/my.js",
+		"/C/Users/User/Desktop/MySite(2)/js/my.js",
+		"/C/Users/User/Desktop/MySite(2)/css/style.css",
+		"/C/Users/User/Desktop/MySite(3)/css/style.css",
+		"/C/Users/User/Desktop/MySite(3)/index.html",
+		"/C/Users/User/Desktop/MySite(2)/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson23/js/my.js",
+		"/C/Users/User/Desktop/lightgallery.js-master/demo/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson23/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson13/js/my.js",
+		"/C/Users/User/Desktop/MySite/css/style.css",
+		"/C/Users/User/Desktop/MySite/js/my.js",
+		"/C/Users/User/Desktop/MySite/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson17/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson17/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson17/js/my.js",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson17/js/jquery-3.5.1.min.js",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson12/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson12/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson9/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson9/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson5/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson5/index.html",
+		"/C/Users/User/Desktop/MySite/css/css/all.css",
+		"/C/Users/User/Desktop/MySite/css/css/fontawesome.min.css",
+		"/C/Users/User/Desktop/MySite/css/css/fontawesome.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson7/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson10/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson8/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson3/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson7/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson6/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson6/js/jquery-3.5.1.min.js",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson7/js/my.js",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson7/js/jquery-3.5.1.min.js",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson3/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson3/css/font-awesome-4.7.0/css/font-awesome.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson2/css/style.css",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson2/index.html",
+		"/C/Users/User/Desktop/Learn/SummerCodeJam/Lesson1/index.html",
+		"/C/Users/User/Desktop/Learn/Верстка/Lesson2/index.html",
+		"/C/Users/User/Desktop/Learn/Верстка/Lesson1/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson11/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson11/css/font.css",
+		"/C/Users/User/Desktop/Learn/Lesson12/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson10/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson10/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson9/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson9/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson9/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson8/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson8/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson8/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson7/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson7/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson7/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson6/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson6/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson6/css/font.css",
+		"/C/Users/User/Desktop/Learn/Lesson6/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson5/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson5/css/main.css",
+		"/C/Users/User/Desktop/Learn/Lesson5/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson4/homework.html",
+		"/C/Users/User/Desktop/Learn/Lesson4/index.html",
+		"/C/Users/User/Desktop/Learn/Lesson3/index.html",
+		"/C/Users/User/Desktop/Learn/Практика/Less 3/index.html",
+		"/C/Users/User/Desktop/Courses/Lesson2/index.html",
+		"/C/Users/User/Downloads/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
